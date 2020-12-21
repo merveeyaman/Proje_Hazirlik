@@ -1,1 +1,1 @@
-# Proje-Haz-rl-k
+# Proje-Hazirlik
